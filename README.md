@@ -42,6 +42,9 @@ Sign in Page: <br/>
 Create Account Page: <br/>
 <img src="https://imgur.com/jbTVPA1.png" height="80" width="80"
 <br />
+<h2>Youtube Videos:</h2>
+-My Elevator Pitch(https://youtube.com/shorts/Buj2xrOv5Mk?feature=share)
+<br />
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
